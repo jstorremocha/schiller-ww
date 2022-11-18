@@ -7,7 +7,12 @@
     },
     "newsletter": {
       "type": "newsletter",
+      "disabled": true,
       "settings": {
+        "title": "Newsletter",
+        "content": "<p>A short sentence describing what someone will receive by subscribing<\/p>",
+        "background": "#ffffff",
+        "text": "#000000"
       }
     }
   },
