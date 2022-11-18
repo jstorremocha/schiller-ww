@@ -2,11 +2,11 @@
   "sections": {
     "slideshow": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/atg_banner.jpg",
             "show_overlay": true,
             "overlay_opacity": 69,
             "text_color": "#ffffff",
@@ -49,6 +49,7 @@
     },
     "featured-collection": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "collection": "pre-order",
         "title": "Pre Order",
@@ -62,6 +63,7 @@
     },
     "featured-products": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "collection": "new-releases",
         "title": "New Releases",
@@ -75,6 +77,7 @@
     },
     "collection-list": {
       "type": "collection-list",
+      "disabled": true,
       "blocks": {
         "collection-2": {
           "type": "collection",
