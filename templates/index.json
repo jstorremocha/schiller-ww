@@ -49,10 +49,9 @@
     },
     "featured-collection": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
-        "collection": "pre-order",
-        "title": "Pre Order",
+        "collection": "illuminate",
+        "title": "Illuminate",
         "products_count": 5,
         "layout": "vertical",
         "stack_products": true,
