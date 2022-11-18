@@ -143,8 +143,8 @@
       "settings": {
         "title": "Newsletter",
         "content": "<p>Subscribe to our newsletter!<\/p>",
-        "background": "#ffffff",
-        "text": "#666666"
+        "background": "#7b0103",
+        "text": "#ffea00"
       }
     }
   },
