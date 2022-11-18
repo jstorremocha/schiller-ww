@@ -155,6 +155,7 @@
           },
           "90870819-c265-4cc2-94b0-5e40ad2810f7": {
             "type": "text",
+            "disabled": true,
             "settings": {
               "title": "",
               "content": "<p><a href=\"\/pages\/about\" title=\"About\">About<\/a><\/p>"
@@ -193,8 +194,8 @@
           "4a5f8bdc-021f-47d6-9dc9-422f54d43095"
         ],
         "settings": {
-          "show_social_media": true,
-          "show_payment_icons": true,
+          "show_social_media": false,
+          "show_payment_icons": false,
           "show_locale_selector": true,
           "show_currency_selector": true,
           "show_cookie_bar": true,
