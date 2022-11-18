@@ -1,0 +1,155 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/atg_banner.jpg",
+            "show_overlay": true,
+            "overlay_opacity": 69,
+            "text_color": "#ffffff",
+            "title": "New ATG Tour",
+            "content": "Summer 2022 - book your tickets already!",
+            "content_position": "bottom_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "Tickets",
+            "link": "https:\/\/cmdistro-de.myshopify.com\/collections\/vendors?q=Ignite"
+          }
+        },
+        "slide-2": {
+          "type": "image",
+          "settings": {
+            "show_overlay": true,
+            "overlay_opacity": 28,
+            "text_color": "#ffffff",
+            "title": "Slide title",
+            "content": "Tell your story",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "Button",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide-1",
+        "slide-2"
+      ],
+      "settings": {
+        "edge_to_edge": false,
+        "section_size": "small",
+        "carousel_effect": "slide",
+        "autoplay": true,
+        "cycle_speed": 5
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "pre-order",
+        "title": "Pre Order",
+        "products_count": 5,
+        "layout": "vertical",
+        "stack_products": true,
+        "show_quick_buy": true,
+        "link_title": "View all",
+        "link_url": ""
+      }
+    },
+    "featured-products": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "new-releases",
+        "title": "New Releases",
+        "products_count": 5,
+        "layout": "vertical",
+        "stack_products": true,
+        "show_quick_buy": true,
+        "link_title": "View all",
+        "link_url": ""
+      }
+    },
+    "collection-list": {
+      "type": "collection-list",
+      "blocks": {
+        "collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "angelus-apatrida",
+            "link": ""
+          }
+        },
+        "collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "at-the-gates",
+            "link": ""
+          }
+        },
+        "collection-5": {
+          "type": "collection",
+          "settings": {
+            "collection": "dark-tranquillity",
+            "link": ""
+          }
+        },
+        "collection-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "insomnium",
+            "link": ""
+          }
+        },
+        "collection-6": {
+          "type": "collection",
+          "settings": {
+            "collection": "napalm-death",
+            "link": ""
+          }
+        },
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "omnium-gatherum",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection-2",
+        "collection-3",
+        "collection-5",
+        "collection-4",
+        "collection-6",
+        "collection-1"
+      ],
+      "settings": {
+        "title": "Featured Artists",
+        "link_title": "View all",
+        "link": "",
+        "round_images": false,
+        "show_collection_title": true
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "settings": {
+        "title": "Newsletter",
+        "content": "<p>Subscribe to our newsletter!<\/p>",
+        "background": "#ffffff",
+        "text": "#666666"
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "featured-collection",
+    "featured-products",
+    "collection-list",
+    "newsletter"
+  ]
+}
