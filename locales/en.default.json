@@ -401,7 +401,7 @@
       "price": "Price",
       "inventory": "Stock",
       "quantity": "Quantity",
-      "in_stock": "In stock",
+      "in_stock": "Available",
       "oversell_stock": "Pre-Order \/ Available Soon",
       "incoming_stock": "Re-stocking on {{ next_incoming_date }}",
       "low_stock_with_quantity_count": {
