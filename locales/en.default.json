@@ -402,7 +402,7 @@
       "inventory": "Stock",
       "quantity": "Quantity",
       "in_stock": "In stock",
-      "oversell_stock": "Re-stocking soon",
+      "oversell_stock": "Pre-Order \/ Available Soon",
       "incoming_stock": "Re-stocking on {{ next_incoming_date }}",
       "low_stock_with_quantity_count": {
         "one": "Only {{count}} unit left",
@@ -413,7 +413,7 @@
         "other": "In stock ({{count}} units), ready to be shipped"
       },
       "add_to_cart": "Add to cart",
-      "sold_out": "Sold out",
+      "sold_out": "Out Of Stock",
       "pre_order": "Pre-order",
       "unavailable": "Unavailable",
       "contact_us": "Contact us",
